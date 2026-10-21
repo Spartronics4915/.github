@@ -14,7 +14,7 @@ Our latest robot is [ARTEMIS](https://github.com/Spartronics4915/2026-Rebuilt), 
 
 <details>
     <summary>
-        <b>Previous Years (Click to expand)</b>
+        <b>Event History (Click to expand)</b>
     </summary>
 
 ## [2026 Rebuilt](https://github.com/Spartronics4915/2026-Rebuilt) — ARTEMIS
