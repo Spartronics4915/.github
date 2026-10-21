@@ -1,16 +1,124 @@
-This is the Github organization for FRC Team 4915 Spartronics from Bainbridge Island, Washington.
+<h1 align="center">
+    <picture src="./Logo.png" style="width: 25%">
+        <img alt="4915 Logo" src="./Logo.png" height="200">
+    </picture>
+</h1>
 
-| Year | Robot Name | Events | EPA Percentile |
-| --- | --- | --- | --- |
-| [2026 Rebuilt](https://github.com/Spartronics4915/2026-Rebuilt) | ARTEMIS | <ul><li>Over the offseason, we built [a turret](https://github.com/Spartronics4915/Skopos-Turret), anticipating that this year's game would be a shooting game.</li><li>Rank 3 at Glacier Peak, 1st pick of Alliance 1, and **event winners** (our first win since 2017)! Additionally, we won the Innovation in Control Award for our **3rd year in a row.**</li><li>Rank 9 at Clackamas Academy, 1st pick of alliance 3. [Pit Stop](https://www.youtube.com/shorts/c2czZJM7ifA)</li><li>Rank 11 at PNW District Championships and 1st pick of Alliance 2</li><li>Rank 26 at Milstein and 2nd pick of alliance 2 (1678 Citrus Circuits and 2481 Roboteers). We went undefeated in playoffs and **WON** the division!!!</li><li>**Competed on the Einstein Field** against the other 7 winning alliances of their divisions. We ended the season as world quarter-finalists.</li></ul>  | Top 6% & Competed on the Einstein field |
-| [2025 Reefscape](https://github.com/Spartronics4915/2025-Reefscape) | EPHYRA | <ul><li>Rank 7 at Sammamish and 1st pick of Alliance 3. Won the innovation in control award.</li><li>At Auburn, we were the #3 alliance captain where we nearly made it to the finals.</li> <li>We competed at the District Championships, where our Dean's List nominee won and proceeded onto the world championship.</li> <li>At Washington Girls' Generation, an event hosted by 2046 Bear Metal to support women and underrepresented communities in STEM, we were rank 4, the first pick of alliance 2, and were finalists, nearly winning the event.</li></ul> | Top 10% |
-| [2024 Crescendo](https://github.com/spartronics4915/2024-crescendo) | NEMESIS | <ul><li>At Glacier Peak, We were the 2nd pick of alliance 2 and were event finalists</li><li>At Bonney Lake, we were rank 11 and the captain of alliance 7. We also won the innovation in control award.</li><li>We competed at Washington Girls' Generation, restarting a tradition for our team that had been stopped during 2020</li></ul> | Top 30% |
-| [2023 Charged Up](https://github.com/Spartronics4915/2023-ChargedUp) | TALOS |  <ul><li>At Glacier Peak, we were rank 6 and captain of alliance 5</li><li>At Auburn, we were rank 6 and the first pick of alliance 3. We also got the Judge's Award.</li><li>At the District Championships, we were the 2nd pick of alliance 2.</li></ul> | Top 24% |
-| [2022 Rapid React](https://github.com/Spartronics4915/2022-RapidReact) | HERMES |  <ul><li>At Sammamish, we were the 2nd pick of alliance 4.</li><li>At Auburn, we were rank 4 and were captain of alliance 3. We also got the Team Spirit Award!</li><li>We also competed at the PNW District Championship</li></ul> | Top 20% |
-| [2020 Infinite Recharge](https://github.com/Spartronics4915/2020-InfiniteRecharge) | ATHENA |  <ul><li>We were rank 7 at Glacier Peak and the captain of alliance 4. We also won the Engineering Inspiration Award!</li></ul>| Top 38% |
-| [2019 Destination: Deep Space](https://github.com/Spartronics4915/2019-DeepSpace) | CHAOS |  <ul><li>At Auburn Mountainview, we were the first pick of alliance 6!</li><li>At Glacier Peak, we won the District Engineering Inspiration Award!</li><li>At Washington Girls' Generation, we were the 2nd pick of alliance 5.</li></ul> | Top 60% |
-| [2018 Power Up](https://github.com/Spartronics4915/2018-POWERUP) | THEMIS |  <ul><li>At Mount Vernon, we were rank 9 and the first pick of alliance 5. We won the Industrial Design Award sponsored by General Motors and were event finalists!</li><li>At Glacier Peak, we were the first pick of alliance 5.</li><li>We also competed at the PNW District Championships and Washington Girls' Generation</li></ul> | Top 15% |
-| [2017 Steamworks](https://github.com/Spartronics4915/2017-STEAMworks) | HELIOS |  <ul><li>At Auburn Mountainview, we were rank 1, the captain of alliance 1, we won the event, and we got the District Engineering Inspiration Award.</li><li>At Glacier Peak, we were also rank 1 and captain of alliance 1. We made it to the semifinals and won the Team Spirit Award sponsored by FCA Foundation</li><li>We made it to the District Championships, where our Dean's List nominee proceeded onto the world championships</li><li>At the FIRST Championship Hopper Division, we were the 3rd pick of alliance 7!</li><li>We also competed at Washington Girls' Generation</li></ul> | Top 3% |
-| [2016 Stronghold](https://github.com/Spartronics4915/2016-Stronghold) | ARES |  <ul><li>At Glacier Peak, we were the 2nd pick of alliance 1 and won the event. We also won the Excellence in Engineering Award sponsored by Delphi!</li><li>At Mount Vernon, we won the Gracious Professionalism Award sponsored by Johnson & Johnson in addition to being the 2nd pick of alliance 6.</li><li>We competed at the PNW District Championship, where we won the Creativity Award sponsored by Xerox.</li><li>We also competed at Washington Girls' Generation</li></ul> | Top 29% |
-| [2015 Recycle Rush](https://github.com/Spartronics4915/2015-Recycle-Rush) | GAEA |  <ul><li>At Glacier Peak, we were the first pick of alliance 3 and won the District Engineering Inspiration Award.</li><li>At Shorewood, we were the first pick of alliance 4 and were event finalists!</li><li>We were rank 8 at the District Championship and the captain of alliance 7!</li><li>We went to the First Championship and competed in the Carver Division.</li></ul> | Top 21% |
-| [2014 Aerial Assist](https://github.com/Spartronics4915/2014-Aerial-Assist) | ATLaS |  <ul><li>Our first ever competition, we were rank 6 at Glacier Peak and won the Rookie All Star Award in addition to being alliance 3's first pick! </li><li>We won our first competition at Shorewood, being the first pick of alliance 5. We also won the Rookie Inspiration Award!</li><li>We were rank 13 at the PNW District Championship and won the Rookie Inspiration Award.</li><li>We competed at the First Championship Curie Division.</li></ul> | Top 7% |
+This is the official github organization for FRC Team 4915, Spartronics, based in Bainbridge High School on Bainbridge Island, Washington. We are a high school robotics team dedicated to inspiring youth in STEM through hands-on engineering, software development, community outreach, and collaborative problem-solving.
+
+We are currently switching from being a Java based team to a Python based team, and plan to port many of the popular frc vendor dependencies that we use to python along with us, so stay tuned for python ports that'll be listed right here in the readme once they're ready for release.
+
+Our latest robot is [ARTEMIS](https://github.com/Spartronics4915/2026-Rebuilt), making it all the way to Einsteins during the FIRST Championship. For more info about our robots or donating, visit [spartronics4915.com](https://spartronics4915.com).
+
+---
+
+<details>
+    <summary>
+        <b>Previous Years (Click to expand)</b>
+    </summary>
+
+## [2026 Rebuilt](https://github.com/Spartronics4915/2026-Rebuilt) — ARTEMIS
+**EPA Percentile**: Top 6%
+- **Offseason**: Built a [turret mechanism](https://github.com/Spartronics4915/Skopos-Turret) in anticipation of a shooting game.
+- **Glacier Peak**: Rank 3, 1st Pick of Alliance 1, Event Winners, Innovation in Control Award.
+- **Clackamas Academy**: Rank 9, 1st Pick of Alliance 3, featured on [Pit Stop](https://www.youtube.com/shorts/c2czZJM7ifA).
+- **PNW District Championship**: Rank 11, 1st Pick of Alliance 2.
+- **FIRST Championship (Milstein Division)**: Rank 26, 2nd Pick of Alliance 2 (with 1678 Citrus Circuits & 2481 Roboteers), Division Winners.
+- **FIRST Championship (Einstein Field)**: Quarterfinalists (lost final match by 3 points).
+- **Bordie Blast**: Rank 1, Alliance 1 Captain.
+- **Washington Girls' Generation**: Rank 13, 1st Pick of Alliance 4.
+
+---
+
+## [2025 Reefscape](https://github.com/Spartronics4915/2025-Reefscape) — EPHYRA
+**EPA Percentile**: Top 10%
+- **Sammamish**: Rank 7, 1st Pick of Alliance 3, Innovation in Control Award.
+- **Auburn**: Rank 3, Alliance 3 Captain, Semifinalists.
+- **PNW District Championship**: Dean's List Winner (advanced to FIRST Championship).
+- **Washington Girls' Generation**: Rank 4, 1st Pick of Alliance 2, Event Finalists.
+
+---
+
+## [2024 Crescendo](https://github.com/spartronics4915/2024-crescendo) — NEMESIS
+**EPA Percentile**: Top 30%
+- **Glacier Peak**: 2nd Pick of Alliance 2, Event Finalists.
+- **Bonney Lake**: Rank 11, Alliance 7 Captain, Innovation in Control Award.
+- **Washington Girls' Generation**: Alliance 4 Captain, Semifinalists (restarted team tradition).
+
+---
+
+## [2023 Charged Up](https://github.com/Spartronics4915/2023-ChargedUp) — TALOS
+**EPA Percentile**: Top 24%
+- **Glacier Peak**: Rank 6, Alliance 5 Captain.
+- **Auburn**: Rank 6, 1st Pick of Alliance 3, Imagery/Judge's Award.
+- **PNW District Championship**: 2nd Pick of Alliance 2.
+
+---
+
+## [2022 Rapid React](https://github.com/Spartronics4915/2022-RapidReact) — HERMES
+**EPA Percentile**: Top 20%
+- **Sammamish**: 2nd Pick of Alliance 4.
+- **Auburn**: Rank 4, Alliance 3 Captain, Team Spirit Award.
+- **PNW District Championship**: Rank 32, Quarterfinalists.
+
+---
+
+## [2020 Infinite Recharge](https://github.com/Spartronics4915/2020-InfiniteRecharge) — ATHENA
+**EPA Percentile**: Top 38%
+- **Glacier Peak**: Rank 7, Alliance 4 Captain, District Engineering Inspiration Award.
+
+---
+
+## [2019 Destination: Deep Space](https://github.com/Spartronics4915/2019-DeepSpace) — CHAOS
+**EPA Percentile**: Top 60%
+- **Auburn Mountainview**: 1st Pick of Alliance 6.
+- **Glacier Peak**: District Engineering Inspiration Award.
+- **Washington Girls' Generation**: 2nd Pick of Alliance 5.
+
+---
+
+## [2018 Power Up](https://github.com/Spartronics4915/2018-POWERUP) — THEMIS
+**EPA Percentile**: Top 15%
+- **Mount Vernon**: Rank 9, 1st Pick of Alliance 5, Event Finalists, Industrial Design Award sponsored by General Motors.
+- **Glacier Peak**: 1st Pick of Alliance 5.
+- **PNW District Championship**: Rank 32.
+- **Washington Girls' Generation**: Event Finalists.
+
+---
+
+## [2017 Steamworks](https://github.com/Spartronics4915/2017-STEAMworks) — HELIOS
+**EPA Percentile**: Top 3%
+- **Auburn Mountainview**: Rank 1, Alliance 1 Captain, Event Winners, District Engineering Inspiration Award.
+- **Glacier Peak**: Rank 1, Alliance 1 Captain, Semifinalists, Team Spirit Award sponsored by FCA Foundation.
+- **PNW District Championship**: Dean's List Winner (advanced to FIRST Championship).
+- **FIRST Championship (Hopper Division)**: 3rd Pick of Alliance 7.
+- **Washington Girls' Generation**: Semifinalists.
+
+---
+
+## [2016 Stronghold](https://github.com/Spartronics4915/2016-Stronghold) — ARES
+**EPA Percentile**: Top 29%
+- **Glacier Peak**: 2nd Pick of Alliance 1, Event Winners, Excellence in Engineering Award sponsored by Delphi.
+- **Mount Vernon**: 2nd Pick of Alliance 6, Gracious Professionalism Award sponsored by Johnson & Johnson.
+- **PNW District Championship**: Rank 24, Quarterfinalists, Creativity Award sponsored by Xerox.
+- **Washington Girls' Generation**: Event Finalists.
+
+---
+
+## [2015 Recycle Rush](https://github.com/Spartronics4915/2015-Recycle-Rush) — GAEA
+**EPA Percentile**: Top 21%
+- **Glacier Peak**: 1st Pick of Alliance 3, District Engineering Inspiration Award.
+- **Shorewood**: 1st Pick of Alliance 4, Event Finalists.
+- **PNW District Championship**: Rank 8, Alliance 7 Captain.
+- **FIRST Championship (Carver Division)**: Rank 31.
+
+---
+
+## [2014 Aerial Assist](https://github.com/Spartronics4915/2014-Aerial-Assist) — ATLaS
+**EPA Percentile**: Top 7%
+- **Glacier Peak** *(Inaugural Event)*: Rank 6, 1st Pick of Alliance 3, Rookie All Star Award.
+- **Shorewood**: 1st Pick of Alliance 5, Event Winners, Rookie Inspiration Award.
+- **PNW District Championship**: Rank 13, Rookie Inspiration Award.
+- **FIRST Championship (Curie Division)**: Rank 46.
+
+</details>
