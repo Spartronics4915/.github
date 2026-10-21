@@ -4,7 +4,7 @@
     </picture>
 </h1>
 
-This is the official github organization for FRC Team 4915, Spartronics, based in Bainbridge High School on Bainbridge Island, Washington. We are a high school robotics team dedicated to inspiring youth in STEM through hands-on engineering, software development, community outreach, and collaborative problem-solving.
+This is the official github organization for FRC Team 4915, Spartronics, from Bainbridge High School, based in Bainbridge Island, Washington. We are a high school robotics team dedicated to inspiring youth in STEM through hands-on engineering, software development, community outreach, and collaborative problem-solving.
 
 We are currently switching from being a Java based team to a Python based team, and plan to port many of the popular frc vendor dependencies that we use to python along with us, so stay tuned for python ports that'll be listed right here in the readme once they're ready for release.
 
